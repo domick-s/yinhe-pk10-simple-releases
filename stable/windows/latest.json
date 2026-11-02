@@ -1,5 +1,11 @@
 {
-  "schemaVersion": 1,
-  "edition": "pk10",
-  "status": "empty"
+  "version": "3.1.0",
+  "notes": "修复已知问题",
+  "pub_date": "2026-11-02T11:36:54.706Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://pk10-simple-updates.dev-forge.one/releases/3.1.0/windows-x86_64/yinhe-3.1.0-windows-x86_64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ2l3ZUZmMno1YVR6VGRtRWVWaXk5M0JseU9FeVlPdlFmK0xlNkJLR0lqUUVXYmFra1NqOHZDdFZzNnJ1QU9oby9xc1lxOWZrMmZpRnE2a21Ed2dRYi91ZGpoRm1lTXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjE5NjU4CWZpbGU65Lit5a2Q5pif566A5piT54mIXzMuMS4wX3g2NC1zZXR1cC5leGUKdE42bGtYOUIrUTdpSVdzdkw5RjZFVlZhd3NxenNNQTJSN2d4WDZDUXNMdEFBSGNPc09MbHZ5VnM2UWpxeVBpNmt6VGRTSWkzaU1QVDJkb0Z2aCtWQ3c9PQo="
+    }
+  }
 }
